@@ -1,2 +1,2 @@
-# Study-C-
+# Study-CPP
 study
